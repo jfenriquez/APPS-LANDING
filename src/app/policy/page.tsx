@@ -897,7 +897,7 @@ const Page = () => {
               <li>
                 Al visitar esta página en nuestro sitio web:{" "}
                 <a
-                  href="https://portafolio-v1-nub7.vercel.app/Contact"
+                  href="https://portafolio-v1-nub7.vercel.app/contact"
                   target="_blank"
                 >
                   https://portafolio-v1-nub7.vercel.app/Contact
