@@ -58,7 +58,7 @@ const ScrollCards = () => {
         }}
       >
         <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-center text-black drop-shadow-md pt-5 pb-0">
-          Nuestras apps
+          Nuestras apps (SITIO EN CONSTRUCCION)
         </h2>
         {projects.map((project, i) => {
           const targetScale = 1 - (projects.length - i) * 0.05;
